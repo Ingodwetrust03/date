@@ -1,0 +1,26 @@
+{
+  "name": "date",
+  "version": "1.0.0",
+  "main": "index.js",
+  "mode": "development",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ingodwetrust03/date.git"
+  },
+  "keywords": [],
+  "author": "Svetlana Biryukova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ingodwetrust03/date/issues"
+  },
+  "homepage": "https://github.com/Ingodwetrust03/date#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.61.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
